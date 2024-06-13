@@ -1,0 +1,198 @@
+/* Lobster Two Start */
+@font-face {
+  font-family: "Lobster Two";
+  src: url("../fonts/lobster-two/LobsterTwo-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Lobster Two";
+  src: url("../fonts/lobster-two/LobsterTwo-Italic.ttf");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Lobster Two";
+  src: url("../fonts/lobster-two/LobsterTwo-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Lobster Two";
+  src: url("../fonts/lobster-two/LobsterTwo-BoldItalic.ttf");
+  font-weight: 700;
+  font-style: italic;
+}
+.font--lobster-two {
+  font-family: "Lobster Two";
+}
+
+/* Lobster Two End */
+
+/* DM Serif Display Start */
+
+@font-face {
+  font-family: "DM Serif Display";
+  src: url("../fonts/dm-serif-display/DMSerifDisplay-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "DM Serif Display";
+  src: url("../fonts/dm-serif-display/DMSerifDisplay-Italic.ttf");
+  font-weight: 400;
+  font-style: italic;
+}
+.font--dm-serif-display {
+  font-family: "DM Serif Display";
+}
+
+/* DM Serif Display End */
+
+/* Poppins Start */
+
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/poppins/Poppins-Thin.ttf");
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/poppins/Poppins-ExtraLight.ttf");
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/poppins/Poppins-Light.ttf");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/poppins/Poppins-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/poppins//Poppins-Medium.ttf");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/poppins/Poppins-SemiBold.ttf");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/poppins/Poppins-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/poppins/Poppins-ExtraBold.ttf");
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/poppins/Poppins-Black.ttf");
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/poppins/Poppins-Thin.ttf");
+  font-weight: 100;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/poppins/Poppins-ExtraLightItalic.ttf");
+  font-weight: 200;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/poppins/Poppins-LightItalic.ttf");
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/poppins/Poppins-Italic.ttf");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/poppins/Poppins-MediumItalic.ttf");
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/poppins/Poppins-SemiBoldItalic.ttf");
+  font-weight: 600;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/poppins/Poppins-BoldItalic.ttf");
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/poppins/Poppins-ExtraBoldItalic.ttf");
+  font-weight: 800;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/poppins/Poppins-BlackItalic.ttf");
+  font-weight: 900;
+  font-style: italic;
+}
+.font--poppins {
+  font-family: "Poppins";
+}
+
+/* Poppins End */
+
+.font--thin {
+  font-weight: 100;
+}
+.font--extralight {
+  font-weight: 200;
+}
+.font--light {
+  font-weight: 300;
+}
+.font--regular {
+  font-weight: 400;
+}
+.font--medium {
+  font-weight: 500;
+}
+.font--semibold {
+  font-weight: 600;
+}
+.font--bold {
+  font-weight: 700;
+}
+.font--extrabold {
+  font-weight: 800;
+}
+.font--black {
+  font-weight: 900;
+}
+
+.font--italic {
+  font-style: italic;
+}
